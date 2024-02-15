@@ -1,3 +1,2 @@
-# myfirstrepository
-some changes here eh eh michael jackson
-#HE HE
+# pprof
+pprof for SEM I is-105 våren 2024 uia
